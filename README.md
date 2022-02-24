@@ -1,5 +1,5 @@
 # NLPLibrary-GutenbergProcessing
 
-# This is a Natural Language Processing Library. 
-# The code (TextAnalyzer.py) takes a folder of text files, or alternative file formats if fed custom parser and creates several visualizations related to word occurences in each text.
-# The visualizatons range from WordClouds, Sentiment BarChart, ScatterText html file, and Sankey Diagrams.
+This is a Natural Language Processing Library. 
+The code (TextAnalyzer.py) takes a folder of text files, or alternative file formats if fed custom parser and creates several visualizations related to word occurences in each text.
+The visualizatons range from WordClouds, Sentiment BarChart, ScatterText html file, and Sankey Diagrams.
